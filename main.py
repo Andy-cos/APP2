@@ -221,4 +221,4 @@ def correlation():
         return "No variables selected. Go back and select two variables."
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    server.run(debug=True)
